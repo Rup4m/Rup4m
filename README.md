@@ -3,9 +3,13 @@
 🔧 Skills:
 
 Web Development: HTML, CSS, JavaScript
+
 Programming: Java, Kotlin,C++
+
 Design: UI/UX Design, Graphic Design
+
 Media: Basic Photography, Cinematic Video Editing
+
 🚀 Currently exploring new technologies and working on exciting projects that merge technical skills with creative flair. Always eager to collaborate and learn from the amazing GitHub community!
 
 🌟 Let’s connect and build something awesome together!
