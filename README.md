@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]
 <h1 align="center">Hi 👋, I'm Rupam Debnath Rodra</h1>
 <h3 align="center">A passionate CSE student From Bangladesh.</h3>
-<img align="right" alt="Coding" width="400" src="[https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXAxMHRoaTJoOWZ0d2VrdmwzOHdic3h2aXkyaGNyYTZrYW56bW9neCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.webp)">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rup4m&label=Profile%20views&color=0e75b6&style=flat" alt="rup4m" /> </p>
 
