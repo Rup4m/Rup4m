@@ -1,4 +1,4 @@
-[![MasterHead][(https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif](https://maruf001-mt.github.io/Premium-Delivery/web.gif)]
+![MasterHead](https://maruf001-mt.github.io/Premium-Delivery/web.gif)
 <h1 align="center">Hi 👋, I'm Rupam Debnath Rodra</h1>
 <h3 align="center">A passionate CSE student From Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
