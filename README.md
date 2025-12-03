@@ -28,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rup4m&show_icons=true&locale=en&layout=compact" alt="rup4m" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rup4m&show_icons=true&locale=en" alt="rup4m" /></p>
+<p>&nbsp;<img align="center" src="https://mihail.co/media/2023/snake.gif" alt="rup4m" /></p>
+
