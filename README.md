@@ -1,7 +1,7 @@
 ![MasterHead](https://maruf001-mt.github.io/Premium-Delivery/web.gif)
 <h1 align="center">Hi 👋, I'm Rupam Debnath Rodra</h1>
 <h3 align="center">A passionate CSE student From Bangladesh.</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resources/Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rup4m&label=Profile%20views&color=0e75b6&style=flat" alt="rup4m" /> </p>
 
